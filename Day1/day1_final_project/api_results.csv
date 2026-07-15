@@ -1,0 +1,4 @@
+api_name,status,response_time(sec)
+weather,Success,1.072
+country,Success,0.953
+ip_info,Success,0.159
